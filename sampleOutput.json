@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Amil Bhatnagar",
+      "title": "Tomorrow on test in Himachal, BJP's Modi, national card vs Congress's hope that local issues will matter - The Indian Express",
+      "description": "The ruling party campaigned on national security, UCC, Ram Temple, Cong focused on anger over the pension scheme",
+      "url": "https://indianexpress.com/article/political-pulse/himachal-bjp-narendra-modi-national-card-congress-8263358/",
+      "urlToImage": "https://images.indianexpress.com/2022/11/himachal-1200-1.jpg",
+      "publishedAt": "2022-11-11T13:01:44Z",
+      "content": "AS Himachal Pradesh votes Saturday, it is the culmination of a heated campaign, with expectations of a close contest. A confident BJP hit a speed-breaker with multiple rebellions, while the Congress … [+4960 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deccan Herald" },
+      "author": null,
+      "title": "PM Modi in Bengaluru Live: PM to unveil Nadaprabhu Kempegowda statue near KIA shortly - Deccan Herald",
+      "description": "Follow the latest news from Prime Minister Narendra Modi's visit to Bengaluru, right here with DH!",
+      "url": "https://www.deccanherald.com/city/modi-in-bengaluru-live-bommai-kia-terminal-2-bommai-bangalore-traffic-airport-bjp-Kempegowda-statue-bial-1161288.html",
+      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/11/11/Screenshot%202022-11-11%20121747-1668149396.png",
+      "publishedAt": "2022-11-11T05:51:18Z",
+      "content": "10 am:Arrival, HAL Airport\r\n10.50 am:Flagging off of Vande Bharat train and Bharat Gaurav Kashi Darshan, KSR Bengaluru Station\r\n11.20 am:Travel from Air Force Training Command Centre, Hebbal, to KIA\r… [+142 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT News Desk",
+      "title": "PM Modi flags off Chennai-Mysuru Vande Bharat, South's 1st | Top points - Hindustan Times",
+      "description": "The new Vande Bharat train will run between Mysuru and Chennai and help cut travel time between the two destinations. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/south-india-to-get-its-first-vande-bharat-train-today-top-points-101668128693096.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/11/11/1600x900/vande_train_1668142312343_1668142322604_1668142322604.jpg",
+      "publishedAt": "2022-11-11T02:15:03Z",
+      "content": "Prime Minister Narendra Modi on Friday flagged off India's fifth and South's first Vande Bharat train from Bengaluru. The train will run between Mysuru and Chennai and help cut travel time between th… [+1592 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Abplive.com" },
+      "author": "ABP News Bureau",
+      "title": "G20 Summit: PM Modi To Visit Indonesia From Nov 14-16 To Attend Global Meet, Says MEA - ABP Live",
+      "description": "The G20 summit will be taking place on November 15 and 16 in Bali and PM Modi is set to be among the top leaders attending the meeting.",
+      "url": "https://news.abplive.com/news/india/g20-summit-pm-modi-to-visit-indonesia-from-nov-14-16-to-attend-global-meeting-says-mea-1562645",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/11/10/9c78830bde46f49899e9d42cdd8c60321668087111471296_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+      "publishedAt": "2022-11-10T13:33:08Z",
+      "content": "New Delhi: Prime Minister Narendra Modi is set to visit the Indonesian city of Bali from November 14 to 16 in order to attend the two-day G20 summit, the Ministry of External Affairs said on Thursday… [+1838 chars]"
+    }
+  ]
+}
